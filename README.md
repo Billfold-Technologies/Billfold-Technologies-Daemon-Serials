@@ -1,3 +1,3 @@
 #Daemon-Serials
 
-Hone for serialized daemon package management, contract audit calibration and electroplated backtesting. 
+Hone for serialized daemon package management, contract audit calibration and electroplate backtest validation. 
