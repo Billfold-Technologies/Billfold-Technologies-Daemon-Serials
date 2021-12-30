@@ -1,2 +1,2 @@
 Daemon-Serials
-Hone for serialized daemon subroutine processors and contract calibration testing applications. 
+Hone for serialized daemon subroutine processors and contract audit calibration and backtesting applications. 
